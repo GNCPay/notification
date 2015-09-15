@@ -1,0 +1,12 @@
+C:\Users\Huy\Documents\GitHub\notification\Payflow.Notification\Payflow.Notification\bin\Debug\Payflow.Notification.dll.config
+C:\Users\Huy\Documents\GitHub\notification\Payflow.Notification\Payflow.Notification\bin\Debug\Payflow.Notification.dll
+C:\Users\Huy\Documents\GitHub\notification\Payflow.Notification\Payflow.Notification\bin\Debug\Payflow.Notification.pdb
+C:\Users\Huy\Documents\GitHub\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Documents\GitHub\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.dll
+C:\Users\Huy\Documents\GitHub\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.pdb
+C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\bin\Debug\Payflow.Notification.dll.config
+C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\bin\Debug\Payflow.Notification.dll
+C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\bin\Debug\Payflow.Notification.pdb
+C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.csprojResolveAssemblyReference.cache
+C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.dll
+C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.pdb
