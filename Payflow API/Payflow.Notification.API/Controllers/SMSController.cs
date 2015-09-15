@@ -17,5 +17,14 @@ namespace Payflow.Notification.API.Controllers
             else response.StatusCode = HttpStatusCode.BadGateway;
             return response;
         }
+
+        public HttpResponseMessage Post(string user_id, string user_pwd, string command_code, string sent_to, string sent_content)
+        {
+            HttpResponseMessage response = new HttpResponseMessage();
+            bool result = SMS.Send(sent_to, sent_content);
+            if (result) response.StatusCode = HttpStatusCode.OK;
+            else response.StatusCode = HttpStatusCode.BadGateway;
+            return response;
+        }
     }
 }
