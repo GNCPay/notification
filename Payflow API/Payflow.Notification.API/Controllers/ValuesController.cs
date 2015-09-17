@@ -35,5 +35,10 @@ namespace Payflow.Notification.API.Controllers
         public void Delete(int id)
         {
         }
+        //Topup api/values/5
+        public void Topup(int id,[FromBody]string value)
+        {
+
+        }
     }
 }

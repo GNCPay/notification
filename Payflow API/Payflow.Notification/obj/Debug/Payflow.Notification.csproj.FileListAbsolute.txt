@@ -10,3 +10,9 @@ C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notificat
 C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.csprojResolveAssemblyReference.cache
 C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.dll
 C:\Data\Working\Source Codes\notification\Payflow.Notification\Payflow.Notification\obj\Debug\Payflow.Notification.pdb
+C:\Users\Home\Documents\GitHub\notification\Payflow.Notification\bin\Debug\Payflow.Notification.dll.config
+C:\Users\Home\Documents\GitHub\notification\Payflow.Notification\bin\Debug\Payflow.Notification.dll
+C:\Users\Home\Documents\GitHub\notification\Payflow.Notification\bin\Debug\Payflow.Notification.pdb
+C:\Users\Home\Documents\GitHub\notification\Payflow.Notification\obj\Debug\Payflow.Notification.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\GitHub\notification\Payflow.Notification\obj\Debug\Payflow.Notification.dll
+C:\Users\Home\Documents\GitHub\notification\Payflow.Notification\obj\Debug\Payflow.Notification.pdb
